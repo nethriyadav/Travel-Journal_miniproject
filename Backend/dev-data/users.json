@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "67f0f97dda886d0509e6964b",
+    "name": "Sai Raja",
+    "email": "sairaja@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+    "password": "$2b$12$hyZCxSw62FpAyN0N1W3Jee1nHq.i3iHODJg1qLM6r/e.cT6qLJjCG",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e6964c",
+    "name": "Manju",
+    "email": "manju@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+    "password": "$2b$12$lKAnctksD8kfBqx6yIASQeOt4L0oTXCPgqKuwKU/0k0pvuPYqJJUi",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e6964d",
+    "name": "Keerthana",
+    "email": "keerthana@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/women/3.jpg",
+    "password": "$2b$12$VjgKVJ1dv43ByuYWV0rsluErRS/FyuYy6l8IuZGIfKOddinTwiMQ.",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e69650",
+    "name": "Mani",
+    "email": "mani@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/6.jpg",
+    "password": "$2b$12$IcWFs/5wRBf5/uC925HZk.u1HRDjq3LvLFB.bcu6.0sOfyhB9qbF6",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e69651",
+    "name": "Sunny",
+    "email": "sunny@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/7.jpg",
+    "password": "$2b$12$oukd3ZQXyNMIMVa6ImkmC.U4N9LoLGIg3SNTxtLSBU7X9LCzYdH.W",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e69652",
+    "name": "Anjali",
+    "email": "anjali@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/women/8.jpg",
+    "password": "$2b$12$Z0HdkzEF8rNjSVXS308ZK.LoKX2CT9ekhE5OkScZ3LXulla9tsWHq",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e69653",
+    "name": "Sruthi",
+    "email": "sruthi1@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/women/9.jpg",
+    "password": "$2b$12$S71IybO057.d29juSPN6bOo9gPbOPUBhDMC8yKVBGIOHxdZUKstRS",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e69654",
+    "name": "Nethri",
+    "email": "nethri@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/women/10.jpg",
+    "password": "$2b$12$ivkz998JNz8cNXLV/EAOHe8bpGQ0j5DAZCfp9K/LZYb3Mt2aVbdpW",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e69655",
+    "name": "Subbu",
+    "email": "subbu@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/11.jpg",
+    "password": "$2b$12$lZn047nAFsmGulONrYoJruvlt6uyvV70a0hjdeLVpSRWbmzxm07Ay",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e69656",
+    "name": "Devaraj",
+    "email": "devaraj@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/12.jpg",
+    "password": "$2b$12$ct.YTi9d4L62mhngxl5VMebrmQ2zE9ruF6wVh8jkMIW2w8SgFO4va",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e69657",
+    "name": "Bhavith",
+    "email": "bhavith@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/13.jpg",
+    "password": "$2b$12$CMSbPbqb3qBdY4HiSIJhQuoxDwNwpnLqfZFvBkUegpsLyIth2Swk6",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e69658",
+    "name": "Akhil",
+    "email": "akhil@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/14.jpg",
+    "password": "$2b$12$hPNKAAIMb76mXLn531GwqOlVC40FgGwilE1qtJP9EUE8EQF9venMW",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e69659",
+    "name": "Vasthav",
+    "email": "vasthav@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/15.jpg",
+    "password": "$2b$12$Xtv2cKQ4rVgKLgF4qNbCuuRst9Nyvn8C86LohmHXGCmXheyn5CpkO",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e6965b",
+    "name": "Shiva",
+    "email": "shiva@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/17.jpg",
+    "password": "$2b$12$JC2j9an9fBK2Ouq6CKCclewlA5rAgagL28XKnbqQiQlHMByk6s6YC",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e6965a",
+    "name": "Sai Krishna",
+    "email": "saikrishna@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/16.jpg",
+    "password": "$2b$12$o3eAl9G8tUoQdV/q3pJJYOWQGzoYyxsvJbXT3ij/Phsv2meBEo1ra",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e6964f",
+    "name": "Vikas",
+    "email": "vikas@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/5.jpg",
+    "password": "$2b$12$eHcRuX46GJ9Vn7z/VTN86Oi/pN1F39w0zxrZ7zm2XpOZHrJckRRfO",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e6964e",
+    "name": "Vijay",
+    "email": "vijay@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/4.jpg",
+    "password": "$2b$12$Y4FCzp.N8JKoG4hT/cETNOyZ6EInAVcrxF0uJRc4b8vnrEURG/ITe",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e6965e",
+    "name": "Sruthi",
+    "email": "sruthi2@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/women/20.jpg",
+    "password": "$2b$12$S84u7bBmobN43kHg2Vt3J.xx1vLFfTMKWzrmbKot7EDfNstXocV6y",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e6965c",
+    "name": "Pranay",
+    "email": "pranay@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/18.jpg",
+    "password": "$2b$12$3hxT1.PBszijZ4KmDxBcr.NcmObgOcLV0OvtsmLnZhmd8KdyLujxW",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67f0f97dda886d0509e6965d",
+    "name": "Praveen",
+    "email": "praveen@gmail.com",
+    "role": "user",
+    "photo": "https://randomuser.me/api/portraits/men/19.jpg",
+    "password": "$2b$12$61wAlxXwlkt27tbN6.OXouYKD48Y9NyNfNidXahKf.cxDtkHHF1xm",
+    "active": true,
+    "__v": 0
+  }
+]

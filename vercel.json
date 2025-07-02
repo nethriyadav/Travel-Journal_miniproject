@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "Frontend/Travel-Journal/package.json",
+      "use": "@vercel/static-build"
+    },
+    {
+      "src": "Backend/server.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "/Backend/server.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/Frontend/Travel-Journal/dist/$1"
+    }
+  ],
+  "buildCommand": "cd Frontend/Travel-Journal && npm install && npm run build",
+  "outputDirectory": "Frontend/Travel-Journal/dist"
+}
